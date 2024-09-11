@@ -46,12 +46,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KokYongKang/KokYongKang/output/snake.svg" alt="Snake animation" />
